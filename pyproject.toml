@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "ml-hw1"
+version = "0.1.0"
+description = "Machine learning homework notebooks"
+authors = []
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.14,<4.0"
+pandas = "^3.0.6"
+numpy = "^2.5.4"
+scikit-learn = "^1.9.1"
+ipykernel = "^7.4.0"
+matplotlib = "^3.11.2"
